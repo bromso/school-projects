@@ -60,9 +60,9 @@ gatsby develop
 
 ### Local --> Stage --> Production
 
-| Name        | Local                            | Production                  										 |
-|-------------|----------------------------------|-------------------------------------------------|
-| Website     | http://localhost:8000            | https://bromso-schoolprojects.netlify.app/      |
+| Name                | Local                            | Stage		                  										 | Production                  										 |
+|---------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
+| School Projects     | http://localhost:8000            |       																					 | https://bromso-schoolprojects.netlify.app/			 |
 
 ## Contribution
 No contributions necessary because the project is just for showing teacher at school.
