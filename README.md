@@ -1,41 +1,18 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4ea7c66d-38f1-4c3d-a48b-7ad02a33c71d/deploy-status)](https://app.netlify.com/sites/bromso-schoolprojects/deploys)
-
 # School CSS Grid
-A playground for testing out all new tech for my school, homework & school assignments.
+A playground for testing out all new tech for school, such as homework & school assignments.
 The goal of this project is to learn and understand CSS Grid, React Backend & Frontend fully so that I can implement it in coming school and work related projects.
 
-## Dependencies
-I recommended to have these CLI's and dependencies in order to download and install everything without a clitch.
+## Table of contents
 
-| Logo                                                    | Name                                                                        | Comments																																		|
-|---------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![Homebrew Logo](docs/img/homebrew.png)                 | [Homebrew](https://brew.sh/)                                                |	Package manager (for Mac)																										|
-| ![NVM Logo](docs/img/nvm.png)                           | [NVM](https://github.com/nvm-sh/nvm)                                        |	Node & NPM Version Manager																									|
-| ![NodeJS Logo](docs/img/nodejs.png)                     | [NodeJS](https://nodejs.org/)                                               |	JavaScript Runtime Engine																										|
-| ![NPMJS Logo](docs/img/npmjs.png)                       | [NPMJS](https://www.npmjs.com/)                                             |	Node Page Manager																														|
-| ![GatsbyJS Logo](docs/img/gatsbyjs.png)			            | [GatsbyJS](https://www.gatsbyjs.com/)                                       |	Site Generator																															|
-
-## Tech Stack
-The application uses these technologies.
-
-| Logo                                                    | Name                                                                        | Comments																																		|
-|---------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![HTML5 Logo](docs/img/html5.png)                       | [HTML5](https://html.spec.whatwg.org/)																	    |	Markup language																															|
-| ![CSS3 Logo](docs/img/css3.png)                         | [CSS3](https://www.w3.org/TR/CSS/)				                                  |	Styling language																														|
-| ![Husky Logo](docs/img/husky.png)                       | [Husky](https://typicode.github.io/husky/)                                  |	Git message validator 																											|
-| ![Commitlint Logo](docs/img/commitlint.png)             | [Commitlint](https://commitlint.js.org/)                                    |	Git linter																																	|
-| ![Semantic Release Logo](docs/img/semanticrelease.png)  | [Semantic Release](https://semantic-release.gitbook.io/semantic-release/)   |	Versioning tool																															|
-| ![Prettier Logo](docs/img/prettier.png)                 | [Prettier](https://prettier.io/)							                              |	Code formatter  																														|
-| ![GatsbyJS Logo](docs/img/gatsbyjs.png)             		| [GatsbyJS](https://www.gatsbyjs.com/)                                    		|	Site generator																															|
-| ![ReactJS Logo](docs/img/reactjs.png)  									| [ReactJS](https://reactjs.org/)   																					|	JavaScript library																													|
-
-## Hosting
-The application uses these hosting vendors.
-
-| Logo                                                     | Name                                                                        |Comments																																		 |
-|----------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![Github Logo](docs/img/github.png)                      | [Github](https://github.com/)                                               | Code repository  																													 |
-| ![Nelify Logo](docs/img/netlify.png)                     | [Netlify](https://www.netlify.com/)                                         | Webpage hosting  																													 |
+- [Quick start](#quick-start)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Versioning](#versioning)
+- [Creator](#creator)
+- [Copyright and license](#copyright-and-license)
 
 
 ## Quick start
@@ -64,10 +41,52 @@ gatsby develop
 |---------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
 | School Projects     | http://localhost:8000            |       																					 | https://bromso-schoolprojects.netlify.app/			 |
 
-## Contribution
-No contributions necessary because the project is just for showing teacher at school.
+## Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ea7c66d-38f1-4c3d-a48b-7ad02a33c71d/deploy-status)](https://app.netlify.com/sites/bromso-schoolprojects/deploys)
+[![David DM Status](https://david-dm.org/bromso/school-projects.svg)](https://david-dm.org/)
 
-### Semantic Versioning (Semver)
+## What's included
+### Dependencies
+I recommended to have these CLI's and dependencies in order to download and install everything without a clitch.
+
+| Logo                                                    | Name                                                                        | Comments																																		|
+|---------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![Homebrew Logo](docs/img/homebrew.png)                 | [Homebrew](https://brew.sh/)                                                |	Package manager (for Mac)																										|
+| ![NVM Logo](docs/img/nvm.png)                           | [NVM](https://github.com/nvm-sh/nvm)                                        |	Node & NPM Version Manager																									|
+| ![NodeJS Logo](docs/img/nodejs.png)                     | [NodeJS](https://nodejs.org/)                                               |	JavaScript Runtime Engine																										|
+| ![NPMJS Logo](docs/img/npmjs.png)                       | [NPMJS](https://www.npmjs.com/)                                             |	Node Page Manager																														|
+| ![GatsbyJS Logo](docs/img/gatsbyjs.png)			            | [GatsbyJS](https://www.gatsbyjs.com/)                                       |	Site Generator																															|
+
+### Tech Stack
+The application uses these technologies.
+
+| Logo                                                    | Name                                                                        | Comments																																		|
+|---------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![HTML5 Logo](docs/img/html5.png)                       | [HTML5](https://html.spec.whatwg.org/)																	    |	Markup language																															|
+| ![CSS3 Logo](docs/img/css3.png)                         | [CSS3](https://www.w3.org/TR/CSS/)				                                  |	Styling language																														|
+| ![Husky Logo](docs/img/husky.png)                       | [Husky](https://typicode.github.io/husky/)                                  |	Git message validator 																											|
+| ![Commitlint Logo](docs/img/commitlint.png)             | [Commitlint](https://commitlint.js.org/)                                    |	Git linter																																	|
+| ![Editorconfig Logo](docs/img/editorconfig.png)         | [Editorconfig](https://editorconfig.org/)                                   |	IDE coding styles																														|
+| ![Semantic Release Logo](docs/img/semanticrelease.png)  | [Semantic Release](https://semantic-release.gitbook.io/semantic-release/)   |	Versioning tool																															|
+| ![Prettier Logo](docs/img/prettier.png)                 | [Prettier](https://prettier.io/)							                              |	Code formatter  																														|
+| ![GatsbyJS Logo](docs/img/gatsbyjs.png)             		| [GatsbyJS](https://www.gatsbyjs.com/)                                    		|	Site generator																															|
+| ![ReactJS Logo](docs/img/reactjs.png)  									| [ReactJS](https://reactjs.org/)   																					|	JavaScript library																													|
+
+### Hosting
+The application uses these hosting vendors.
+
+| Logo                                                     | Name                                                                        |Comments																																		 |
+|----------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![Github Logo](docs/img/github.png)                      | [Github](https://github.com/)                                               | Code repository  																													 |
+| ![Nelify Logo](docs/img/netlify.png)                     | [Netlify](https://www.netlify.com/)                                         | Webpage hosting  																													 |
+
+## Contributing
+No contributions are necessary because the project is just for showing teacher at school.
+
+## Bugs and feature requests
+No bug and feature request are necessary because the project is just for showing teacher at school.
+
+### Versioning
 
 For transparency into our release cycle and in striving to maintain backward compatibility, MaterialUI is maintained under the [Semantic Versioning guidelines](https://semver.org). Sometimes we screw up, but we adhere to those rules whenever possible.
 
@@ -94,9 +113,10 @@ $ git commit -m "A brief summary of the commit
 
 See the Releases section of our GitHub project for [CHANGELOG](https://github.com/bromso/school-projects/blob/main/CHANGELOG.md) for each release version of MaterialUI projects.
 
-### Editor preferences
-
-Editor preferences are available in the editor config file for easy use in common text editors. Read more and download plugins at [Editorconfig](https://editorconfig.org/).
+## Creator
+| Avatar                                                   | Name         | Email								   | Website																	|
+|----------------------------------------------------------|--------------|------------------------|------------------------------------------|
+| ![Jonas Bröms Avatar](docs/img/jonasbroms.png)           | Jonas Bröms  | jonasbroms@icloud.com	 | [jonasbroms.com](https://jonasbroms.com)	|
 
 ## Coding conventions
 
