@@ -5,34 +5,35 @@ The goal of this project is to learn and understand CSS Grid, React Backend & Fr
 ## Dependencies
 I recommended to have these CLI's and dependencies in order to download and install everything without a clitch.
 
-| Logo                                                    | Name                                                                        |
-|---------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![Homebrew Logo](docs/img/homebrew.png)                 | [Homebrew](https://brew.sh/)                                                |
-| ![NVM Logo])(docs/img/nvm.png)                          | [NVM](https://github.com/nvm-sh/nvm)                                        |
-| ![NodeJS Logo](docs/img/nodejs.png)                     | [NodeJS](https://nodejs.org/)                                               |
-| ![NPMJS Logo](docs/img/npmjs.png)                       | [NPMJS](https://www.npmjs.com/)                                             |
-| ![GatsbyJS Logo](docs/img/logos/gatsby.png)             | [GatsbyJS](https://www.gatsbyjs.com/)                                       |
+| Logo                                                    | Name                                                                        | Comments																																		|
+|---------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![Homebrew Logo](docs/img/homebrew.png)                 | [Homebrew](https://brew.sh/)                                                |	Package manager (for Mac)																										|
+| ![NVM Logo])(docs/img/nvm.png)                          | [NVM](https://github.com/nvm-sh/nvm)                                        |	Node & NPM Version Manager																									|
+| ![NodeJS Logo](docs/img/nodejs.png)                     | [NodeJS](https://nodejs.org/)                                               |	JavaScript Runtime Engine																										|
+| ![NPMJS Logo](docs/img/npmjs.png)                       | [NPMJS](https://www.npmjs.com/)                                             |	Node Page Manager																														|
+| ![GatsbyJS Logo](docs/img/Gatsbyjs.png)			            | [GatsbyJS](https://www.gatsbyjs.com/)                                       |	Site Generator																															|
 
 ## Tech Stack
 The application uses these technologies.
 
-| Logo                                                    | Name                                                                        |
-|---------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![HTML5 Logo](docs/img/html5.png)                       | [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)      |
-| ![CSS3 Logo](docs/img/css3.png)                         | [CSS3](https://typicode.github.io/husky/)                                   |
-| ![Husky Logo](docs/img/husky.png)                       | [Husky](https://typicode.github.io/husky/)                                  |
-| ![Commitlint Logo](docs/img/commitlint.png)             | [Commitlint](https://commitlint.js.org/)                                    |
-| ![Semantic Release Logo](docs/img/semanticrelease.png)  | [Semantic Release](https://semantic-release.gitbook.io/semantic-release/)   |
-| ![GatsbyJS Logo](docs/img/logos/gatsby.png)             | [GatsbyJS](https://www.gatsbyjs.com/)                                       |
-| ![ReactJS Logo](docs/img/reactjs.png)  									| [ReactJS](https://reactjs.org/)   																					|
+| Logo                                                    | Name                                                                        | Comments																																		|
+|---------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![HTML5 Logo](docs/img/html5.png)                       | [HTML5](https://html.spec.whatwg.org/)																	    |	Markup language																															|
+| ![CSS3 Logo](docs/img/css3.png)                         | [CSS3](https://www.w3.org/TR/CSS/)				                                  |	Styling language																														|
+| ![Husky Logo](docs/img/husky.png)                       | [Husky](https://typicode.github.io/husky/)                                  |	Git message validator 																											|
+| ![Commitlint Logo](docs/img/commitlint.png)             | [Commitlint](https://commitlint.js.org/)                                    |	Git linter																																	|
+| ![Semantic Release Logo](docs/img/semanticrelease.png)  | [Semantic Release](https://semantic-release.gitbook.io/semantic-release/)   |	Versioning tool																															|
+| ![Prettier Logo](docs/img/prettier.png)                 | [Prettier](https://prettier.io/)							                              |	Code formatter  																														|
+| ![GatsbyJS Logo](docs/img/gatsbyjs.png)             		| [GatsbyJS](https://www.gatsbyjs.com/)                                    		|	Site generator																															|
+| ![ReactJS Logo](docs/img/reactjs.png)  									| [ReactJS](https://reactjs.org/)   																					|	JavaScript library																													|
 
 ## Hosting
 The application uses these technologies.
 
-| Logo                                                     | Name                                                                        |
-|----------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![Github Logo](docs/img/github.png)                      | [Github](https://github.com/)                                               |
-| ![Nelify Logo](docs/img/netlify.png)                     | [Netlify](https://www.netlify.com/)                                         |
+| Logo                                                     | Name                                                                        |Comments																																		 |
+|----------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![Github Logo](docs/img/github.png)                      | [Github](https://github.com/)                                               | Code repository  																													 |
+| ![Nelify Logo](docs/img/netlify.png)                     | [Netlify](https://www.netlify.com/)                                         | Rendered webpage 																													 |
 
 
 ## Quick start
@@ -91,7 +92,7 @@ $ git commit -m "A brief summary of the commit
 | chore           | Changes the build process                                      |                    | chore: update .travis.yml & netlify.toml         |
 
 
-See the Releases section of our GitHub project for CHANGELOG for each release version of MaterialUI projects.
+See the Releases section of our GitHub project for [CHANGELOG](https://github.com/bromso/school-projects/blob/main/CHANGELOG.md) for each release version of MaterialUI projects.
 
 ### Editor preferences
 
