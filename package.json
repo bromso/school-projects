@@ -1,0 +1,46 @@
+{
+  "name": "school-projects",
+  "private": true,
+  "description": "A playground for testing out all new tech for school, homework & school assignments",
+  "version": "0.1.0",
+	"author": "Jonas Bröms <jonasbroms@icloud.com> (http://jonasbroms.com/)",
+  "license": "MIT <https://github.com/bromso/school-projects/blob/master/LICENSE>",
+  "homepage": "https://github.com/bromso/school-projects/#readme",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.66",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bromso/school-projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bromso/school-projects/issues"
+  },
+	"keywords": [
+    "css",
+    "grid",
+    "css",
+    "grid",
+    "design",
+    "responsive",
+    "design"
+  ],
+	"engines": {
+    "node": "~12.14.1",
+    "npm": "~6.14.4"
+  }
+}
