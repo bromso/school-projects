@@ -8,10 +8,10 @@ I recommended to have these CLI's and dependencies in order to download and inst
 | Logo                                                    | Name                                                                        | Comments																																		|
 |---------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | ![Homebrew Logo](docs/img/homebrew.png)                 | [Homebrew](https://brew.sh/)                                                |	Package manager (for Mac)																										|
-| ![NVM Logo])(docs/img/nvm.png)                          | [NVM](https://github.com/nvm-sh/nvm)                                        |	Node & NPM Version Manager																									|
+| ![NVM Logo](docs/img/nvm.png)                           | [NVM](https://github.com/nvm-sh/nvm)                                        |	Node & NPM Version Manager																									|
 | ![NodeJS Logo](docs/img/nodejs.png)                     | [NodeJS](https://nodejs.org/)                                               |	JavaScript Runtime Engine																										|
 | ![NPMJS Logo](docs/img/npmjs.png)                       | [NPMJS](https://www.npmjs.com/)                                             |	Node Page Manager																														|
-| ![GatsbyJS Logo](docs/img/Gatsbyjs.png)			            | [GatsbyJS](https://www.gatsbyjs.com/)                                       |	Site Generator																															|
+| ![GatsbyJS Logo](docs/img/gatsbyjs.png)			            | [GatsbyJS](https://www.gatsbyjs.com/)                                       |	Site Generator																															|
 
 ## Tech Stack
 The application uses these technologies.
@@ -28,7 +28,7 @@ The application uses these technologies.
 | ![ReactJS Logo](docs/img/reactjs.png)  									| [ReactJS](https://reactjs.org/)   																					|	JavaScript library																													|
 
 ## Hosting
-The application uses these technologies.
+The application uses these hosting vendors.
 
 | Logo                                                     | Name                                                                        |Comments																																		 |
 |----------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -129,6 +129,7 @@ For more information, [click here](https://github.com/bromso/school-projects/blo
 - [Leveluptuts CSS Grid - YouTube](https://youtu.be/NLLMwJwDgBs)
 
 #### Frameworks & Themes
+-
 - [Grommet](https://v2.grommet.io/)
 
 #### Resources
