@@ -86,9 +86,8 @@ No contributions are necessary because the project is just for showing teacher a
 ## Bugs and feature requests
 No bug and feature request are necessary because the project is just for showing teacher at school.
 
-### Versioning
-
-For transparency into our release cycle and in striving to maintain backward compatibility, MaterialUI is maintained under the [Semantic Versioning guidelines](https://semver.org). Sometimes we screw up, but we adhere to those rules whenever possible.
+## Versioning
+For transparency into my release cycle and in striving to maintain backward compatibility, school-projects is maintained under the [Semantic Versioning guidelines](https://semver.org). Sometimes I screw up, but I adhere to those rules whenever possible.
 
 Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
 
