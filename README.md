@@ -1,4 +1,4 @@
-# School CSS Grid
+# School Projects
 A playground for testing out all new tech for school, such as homework & school assignments.
 The goal of this project is to learn and understand CSS Grid, React Backend & Frontend fully so that I can implement it in coming school and work related projects.
 
