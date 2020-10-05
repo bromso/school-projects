@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ea7c66d-38f1-4c3d-a48b-7ad02a33c71d/deploy-status)](https://app.netlify.com/sites/bromso-schoolprojects/deploys)
+
 # School CSS Grid
 A playground for testing out all new tech for my school, homework & school assignments.
 The goal of this project is to learn and understand CSS Grid, React Backend & Frontend fully so that I can implement it in coming school and work related projects.
@@ -33,7 +35,7 @@ The application uses these hosting vendors.
 | Logo                                                     | Name                                                                        |Comments																																		 |
 |----------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | ![Github Logo](docs/img/github.png)                      | [Github](https://github.com/)                                               | Code repository  																													 |
-| ![Nelify Logo](docs/img/netlify.png)                     | [Netlify](https://www.netlify.com/)                                         | Rendered webpage 																													 |
+| ![Nelify Logo](docs/img/netlify.png)                     | [Netlify](https://www.netlify.com/)                                         | Webpage hosting  																													 |
 
 
 ## Quick start
@@ -58,14 +60,12 @@ gatsby develop
 
 ### Local --> Stage --> Production
 
-| Name        | Local                            | Production                  |
-|-------------|----------------------------------|-----------------------------|
-| Website     | http://localhost:8000            | https://www.link.com/       |
-
-## Browser support
-![Browser support according to Caniuse.com](docs/img/css-grid-caniuse.jpg)
+| Name        | Local                            | Production                  										 |
+|-------------|----------------------------------|-------------------------------------------------|
+| Website     | http://localhost:8000            | https://bromso-schoolprojects.netlify.app/      |
 
 ## Contribution
+No contributions necessary because the project is just for showing teacher at school.
 
 ### Semantic Versioning (Semver)
 
@@ -111,6 +111,9 @@ For more information, [click here](https://github.com/bromso/school-projects/blo
 ## Inspiration
 
 ### CSS Grid
+#### Browser support
+![Browser support according to Caniuse.com](docs/img/css-grid-caniuse.jpg)
+
 #### Libraries
 - [Styled CSS Grid](https://github.com/azz/styled-css-grid)
 - [React CSS Grid](https://github.com/jxnblk/react-css-grid)
@@ -129,8 +132,8 @@ For more information, [click here](https://github.com/bromso/school-projects/blo
 - [Leveluptuts CSS Grid - YouTube](https://youtu.be/NLLMwJwDgBs)
 
 #### Frameworks & Themes
--
 - [Grommet](https://v2.grommet.io/)
+- [Styled CSS Grid](https://styled-css-grid.js.org/)
 
 #### Resources
 - [Most vector images used, Undraw](https://undraw.co/)
