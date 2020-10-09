@@ -35,6 +35,12 @@ Navigate the site’s directory and start it up.
 gatsby develop
 ```
 
+### Develop & Test on physical smartphone
+Navigate the site’s directory and start it up.
+```shell
+gatsby develop -H 0.0.0.0
+```
+
 ### Local --> Stage --> Production
 
 | Name                | Local                            | Stage		                  										 | Production                  										 |
@@ -60,17 +66,18 @@ I recommended to have these CLI's and dependencies in order to download and inst
 ### Tech Stack
 The application uses these technologies.
 
-| Logo                                                    | Name                                                                        | Comments																																		|
-|---------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| ![HTML5 Logo](docs/img/html5.png)                       | [HTML5](https://html.spec.whatwg.org/)																	    |	Markup language																															|
-| ![CSS3 Logo](docs/img/css3.png)                         | [CSS3](https://www.w3.org/TR/CSS/)				                                  |	Styling language																														|
-| ![Husky Logo](docs/img/husky.png)                       | [Husky](https://typicode.github.io/husky/)                                  |	Git message validator 																											|
-| ![Commitlint Logo](docs/img/commitlint.png)             | [Commitlint](https://commitlint.js.org/)                                    |	Git linter																																	|
-| ![Editorconfig Logo](docs/img/editorconfig.png)         | [Editorconfig](https://editorconfig.org/)                                   |	IDE coding styles																														|
-| ![Semantic Release Logo](docs/img/semanticrelease.png)  | [Semantic Release](https://semantic-release.gitbook.io/semantic-release/)   |	Versioning tool																															|
-| ![Prettier Logo](docs/img/prettier.png)                 | [Prettier](https://prettier.io/)							                              |	Code formatter  																														|
-| ![GatsbyJS Logo](docs/img/gatsbyjs.png)             		| [GatsbyJS](https://www.gatsbyjs.com/)                                    		|	Site generator																															|
-| ![ReactJS Logo](docs/img/reactjs.png)  									| [ReactJS](https://reactjs.org/)   																					|	JavaScript library																													|
+| Logo                                                    	| Name                                                                        | Comments																																		|
+|-----------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![HTML5 Logo](docs/img/html5.png)                       	| [HTML5](https://html.spec.whatwg.org/)																	    |	Markup language																															|
+| ![CSS3 Logo](docs/img/css3.png)                         	| [CSS3](https://www.w3.org/TR/CSS/)				                                  |	Styling language																														|
+| ![Husky Logo](docs/img/husky.png)                       	| [Husky](https://typicode.github.io/husky/)                                  |	Git message validator 																											|
+| ![Commitlint Logo](docs/img/commitlint.png)             	| [Commitlint](https://commitlint.js.org/)                                    |	Git linter																																	|
+| ![Editorconfig Logo](docs/img/editorconfig.png)         	| [Editorconfig](https://editorconfig.org/)                                   |	IDE coding styles																														|
+| ![Semantic Release Logo](docs/img/semanticrelease.png)  	| [Semantic Release](https://semantic-release.gitbook.io/semantic-release/)   |	Versioning tool																															|
+| ![Prettier Logo](docs/img/prettier.png)                 	| [Prettier](https://prettier.io/)							                              |	Code formatter  																														|
+| ![GatsbyJS Logo](docs/img/gatsbyjs.png)             			| [GatsbyJS](https://www.gatsbyjs.com/)                                    		|	Site generator																															|
+| ![ReactJS Logo](docs/img/reactjs.png)  										| [ReactJS](https://reactjs.org/)   																					|	JavaScript library																													|
+| ![Styled Components Logo](docs/img/styled-components.png) | [Styled-Components](https://styled-components.com/)   											|	ES6 & CSS to style components																								|
 
 ### Hosting
 The application uses these hosting vendors.
@@ -126,34 +133,3 @@ See the Releases section of our GitHub project for [CHANGELOG](https://github.co
 
 This project is licensed under the terms of the MIT license.
 For more information, [click here](https://github.com/bromso/school-projects/blob/master/LICENSE).
-
-## Inspiration
-
-### CSS Grid
-#### Browser support
-![Browser support according to Caniuse.com](docs/img/css-grid-caniuse.jpg)
-
-#### Libraries
-- [Styled CSS Grid](https://github.com/azz/styled-css-grid)
-- [React CSS Grid](https://github.com/jxnblk/react-css-grid)
-
-#### Standards
-- [W3C CSS Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-- [W3C CSS HTML Examples](https://www.w3schools.com/html/html_examples.asp)
-- [Mozilla CSS Grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [W3C CSS Grid Layout Module 1](https://www.w3.org/TR/css-grid-1/)
-- [Caniuse CSS Grid](https://caniuse.com/#feat=css-grid)
-
-#### Education
-- [Spring Into CSS Grid - Blog](https://jonitrythall.com/spring-into-css-grid)
-- [CSS Tricks CSS Grid Complete Guide - Blog](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [Grid by Example - Blog](https://gridbyexample.com/video/series-auto-fill-auto-fit/)
-- [Leveluptuts CSS Grid - YouTube](https://youtu.be/NLLMwJwDgBs)
-
-#### Frameworks & Themes
-- [Grommet](https://v2.grommet.io/)
-- [Styled CSS Grid](https://styled-css-grid.js.org/)
-
-#### Resources
-- [Most vector images used, Undraw](https://undraw.co/)
-- [Most bitmap images used, Unsplash](https://unsplash.com/)
