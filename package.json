@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Jonas Bröms <jonasbroms@icloud.com> (http://jonasbroms.com/)",
   "license": "MIT <https://github.com/bromso/school-projects/blob/master/LICENSE>",
-  "homepage": "https://github.com/bromso/school-projects/#readme",
+  "homepage": "https://bromso-schoolprojects.netlify.app/",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
