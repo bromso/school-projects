@@ -69,7 +69,7 @@ I recommended to have these CLI's and dependencies in order to download and inst
 | ![NodeJS Logo](docs/img/nodejs.png)                     | [NodeJS](https://nodejs.org/)                                               |	JavaScript Runtime Engine																										|
 | ![NPMJS Logo](docs/img/npmjs.png)                       | [NPMJS](https://www.npmjs.com/)                                             |	Node Page Manager																														|
 | ![GatsbyJS Logo](docs/img/gatsbyjs.png)			            | [GatsbyJS](https://www.gatsbyjs.com/)                                       |	Site Generator																															|
-| ![Storybook Logo](docs/img/storybook.png)								| [Storbyook](https://storybook.js.org/)   																		|	UI Component Explorer 																											|
+| ![Storybook Logo](docs/img/storybookjs.png)								| [Storbyook](https://storybook.js.org/)   																		|	UI Component Explorer 																											|
 
 ### Tech Stack
 The application uses these technologies.
@@ -86,7 +86,7 @@ The application uses these technologies.
 | ![GatsbyJS Logo](docs/img/gatsbyjs.png)             			| [GatsbyJS](https://www.gatsbyjs.com/)                                    		|	Site generator																															|
 | ![ReactJS Logo](docs/img/reactjs.png)  										| [ReactJS](https://reactjs.org/)   																					|	JavaScript library																													|
 | ![Styled Components Logo](docs/img/styled-components.png) | [Styled-Components](https://styled-components.com/)   											|	ES6 & CSS to style components																								|
-| ![Storybook Logo](docs/img/storybook.png) 								| [Storbyook](https://storybook.js.org/)   																		|	UI Component Explorer 																											|
+| ![StorybookJS Logo](docs/img/storybookjs.png)							| [Storbyook](https://storybook.js.org/)   																		|	UI Component Explorer 																											|
 
 ### Hosting
 The application uses these hosting vendors.
