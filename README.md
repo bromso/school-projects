@@ -30,22 +30,29 @@ npm i
 ```
 
 ### Start developing
-Navigate the site’s directory and start it up.
+Navigate the site’s directory and start it up. Will be located on url: http://localhost:8000
 ```shell
 gatsby develop
 ```
 
-### Develop & Test on physical smartphone
-Navigate the site’s directory and start it up.
+### Develop & Test on Smartphone
+Navigate the site’s directory and start it up. Wait until Gatsby has fully started and you will find the IP to put in your browser on your smartphone.
 ```shell
 gatsby develop -H 0.0.0.0
 ```
 
+### Start Storybook
+Navigate the site’s directory and start it up. Will be located on url: http://localhost:6006
+```shell
+npm run storybook
+```
+
 ### Local --> Stage --> Production
 
-| Name                | Local                            | Stage		                  										 | Production                  										 |
-|---------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
-| School Projects     | http://localhost:8000            |       																					 | https://bromso-schoolprojects.netlify.app/			 |
+| Name                	| Local                            | Stage		                  										 | Production                  										 |
+|-----------------------|----------------------------------|-------------------------------------------------|-------------------------------------------------|
+| GatsbyJS App     				 | http://localhost:8000         |       																					 | https://bromso-schoolprojects.netlify.app/			 |
+| Storybook: UI Components | http://localhost:6006     		 |       																					 | 			 																					 |
 
 ## Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4ea7c66d-38f1-4c3d-a48b-7ad02a33c71d/deploy-status)](https://app.netlify.com/sites/bromso-schoolprojects/deploys)
@@ -62,6 +69,7 @@ I recommended to have these CLI's and dependencies in order to download and inst
 | ![NodeJS Logo](docs/img/nodejs.png)                     | [NodeJS](https://nodejs.org/)                                               |	JavaScript Runtime Engine																										|
 | ![NPMJS Logo](docs/img/npmjs.png)                       | [NPMJS](https://www.npmjs.com/)                                             |	Node Page Manager																														|
 | ![GatsbyJS Logo](docs/img/gatsbyjs.png)			            | [GatsbyJS](https://www.gatsbyjs.com/)                                       |	Site Generator																															|
+| ![Storybook Logo](docs/img/storybook.png)								| [Storbyook](https://storybook.js.org/)   																		|	UI Component Explorer 																											|
 
 ### Tech Stack
 The application uses these technologies.
@@ -78,6 +86,7 @@ The application uses these technologies.
 | ![GatsbyJS Logo](docs/img/gatsbyjs.png)             			| [GatsbyJS](https://www.gatsbyjs.com/)                                    		|	Site generator																															|
 | ![ReactJS Logo](docs/img/reactjs.png)  										| [ReactJS](https://reactjs.org/)   																					|	JavaScript library																													|
 | ![Styled Components Logo](docs/img/styled-components.png) | [Styled-Components](https://styled-components.com/)   											|	ES6 & CSS to style components																								|
+| ![Storybook Logo](docs/img/storybook.png) 								| [Storbyook](https://storybook.js.org/)   																		|	UI Component Explorer 																											|
 
 ### Hosting
 The application uses these hosting vendors.
